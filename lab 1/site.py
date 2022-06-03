@@ -66,3 +66,5 @@ class Privileges():
 
 admin = Privileges()
 print(admin.show_privileges())
+
+print
