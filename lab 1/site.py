@@ -27,7 +27,7 @@ us2 = User("Ліана", "Лисак", "18", "lysak.liana@chnu.edu.ua", 1)
 
 print(us1.describe_user())
 print(us1.greeting_user())
-
+f
 print(us2.describe_user())
 print(us2.greeting_user())
 
